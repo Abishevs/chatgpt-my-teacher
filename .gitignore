@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.egg-info
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+
+# C and C++
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.xcodeproj/
+*.swp
+*.swo
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Editor-specific files
+.vscode/
+
+
+# Virtual environments (e.g., virtualenv, pipenv, poetry)
+__env/
+venv/
+env/
+*.venv/
+.penv/
+.venv/
+pipenv/
+.poetry/
+__pypackages__/
